@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* Print Celsius-Fahrenheit table for cels = 0, 20, 40, ..., 300*/
+/* CPL Section 1.2
+Print Celsius-Fahrenheit table for cels = 0, 20, 40, ..., 300*/
 
 int main()
 {
